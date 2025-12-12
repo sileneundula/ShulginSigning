@@ -1,6 +1,6 @@
 # ShulginSigning
 
-![img](SHULGINSIGNING.png)
+<img src=SHULGINSIGNING.png height=25% width=25%>
 
 ## Abstract
 
