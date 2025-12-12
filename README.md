@@ -1,5 +1,7 @@
 # ShulginSigning
 
+![img](SHULGINSIGNING.png)
+
 ## Abstract
 
 In terms of keeping data secure and tamper-resistant, there comes a time when a new solution must be made to address previous and future concerns in regards to cryptography. Many digital signature algorithms have been used to keep data protect but in this paper, we present ShulginSigning, a hybrid digital signature mechanism for signing data with high-integrity/security for the prolonged future that is post-quantum secure based on the hardness of hash function collision resistance using SPHINCS+ (SHAKE256), and classically secure based on elliptic curves using Ed25519 or the better version Ed448, as specified in RFC 8032. It promotes security by also making concerns regarding how it should be implemented, with an approach that allows cryptographic randomness to be generated for ecc keypairs on top of the determinstic approach called **hedged signatures**.
