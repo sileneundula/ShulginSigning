@@ -1,6 +1,6 @@
 # ShulginSigning
 
-<img src=SHULGINSIGNING.png height=25% width=25%>
+<img src=SHULGINSIGNING.png alt="ShulginSigning" height=25% width=25%>
 
 ## Abstract
 
